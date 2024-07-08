@@ -36,7 +36,6 @@ replay_pid*
 .recommenders
 .settings
 .springBeans
-.vscode
 /code
 MANIFEST.MF
 _site/
@@ -77,7 +76,6 @@ build/
 **/src/main/**/build/
 **/src/test/**/build/
 ### VS Code ###
-.vscode/
 .env
 HELP.md
 mvnw.cmd
@@ -86,3 +84,6 @@ mvnw
 manifest.json
 manifest.json.lock
 has context menu
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
